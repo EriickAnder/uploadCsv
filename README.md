@@ -51,6 +51,7 @@ Url: 127.0.0.1:8000/api/
 - O mesmo se aplica para a fila e logs.
 
 
+Segue junto do projeto um arquivo CSV com 10 mil linhas para teste e a collection do postman
 
 
 
