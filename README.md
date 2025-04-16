@@ -22,5 +22,5 @@ php artisan db:seed
  [x] Logica Status Import
  [x] Lógica listagem de User Paginada
  [x] Autenticação JWT
- [] Testes API
+ [x] Testes API
  [x] Logs
