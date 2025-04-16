@@ -10,8 +10,10 @@ docker exec -it laravel_app bash
 *Passo 4:*
 composer install ;)
 *Passo 5:*
-php artisan migrate
+Crie um database chamado vexpense
 *Passo 6:*
+php artisan migrate
+*Passo 7:*
 php artisan db:seed
 
 
